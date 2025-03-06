@@ -1,21 +1,19 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
 ## 📒 Descrição
-Breve descrição do seu projeto
+Os deepfakes estão se tornando cada vez mais realistas e podem ser usados para espalhar desinformação, golpes e manipulações digitais. Neste vídeo, explicamos como essa tecnologia funciona, os principais riscos e como você pode identificar conteúdos falsificados. Também discutimos formas de combater esse tipo de material e evitar cair em armadilhas online.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- CHAT GPT
+- Editor - Clideo
+- Invideo IA
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiro, pedi ao ChatGPT para escrever o roteiro. Depois, usei a plataforma InVideo IA para gerar o vídeo. Por fim, utilizei o Clideo para compactar o arquivo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O vídeo ficou muito bem feito e explicativo. Abordou todos os tópicos de forma clara e conseguiu transmitir as informações de maneira objetiva.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
 ```
 
